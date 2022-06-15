@@ -1,3 +1,3 @@
 # Calculator
 
-#A basic calculator to perform the arithimetic operations 
+#A basic calculator app to perform the arithimetic operations 
